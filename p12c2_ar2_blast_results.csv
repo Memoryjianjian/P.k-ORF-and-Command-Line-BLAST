@@ -1,0 +1,2 @@
+Query,sseqid,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore
+p12c2_ar2,Ga0417193_01,94.529,329,17,1,15,342,4806464,4806136,1.97E-143,507

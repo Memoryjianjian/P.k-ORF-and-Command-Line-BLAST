@@ -1,0 +1,2 @@
+Query,sseqid,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore
+p8a10b_genpatseq2,Ga0417193_01,97.561,246,6,0,195,440,1642886,1642641,6.90E-118,422

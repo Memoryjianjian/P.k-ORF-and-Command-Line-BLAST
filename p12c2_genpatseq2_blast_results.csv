@@ -1,0 +1,2 @@
+Query,sseqid,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore
+p12c2_genpatseq2,Ga0417193_01,95.261,211,10,0,194,404,4806136,4806346,9.56E-92,335

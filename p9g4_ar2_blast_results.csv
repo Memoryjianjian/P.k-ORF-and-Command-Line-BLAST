@@ -1,0 +1,2 @@
+Query,sseqid,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore
+p9g4_ar2,Ga0417193_01,84.472,161,19,6,35,189,589382,589222,2.82E-37,154
