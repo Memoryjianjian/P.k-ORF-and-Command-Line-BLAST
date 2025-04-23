@@ -1,0 +1,3 @@
+Query,sseqid,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore
+p11a3_genpatseq2,Ga0417193_01,84.146,246,37,2,194,438,6172969,6172725,2.78E-62,237
+p11a3_genpatseq2,Ga0417193_01,80.488,246,46,2,194,438,6174169,6173925,2.84E-47,187
